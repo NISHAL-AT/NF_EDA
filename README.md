@@ -31,10 +31,10 @@ Dataset Columns:
 | `description`  | Short description of the show    |
 
 Visualizations
-1️⃣ Most Common Genres
+### 🔹 Most Common Genres
+Shows the most frequently listed genres on Netflix.  
+![Most Common Genres](images/most_common_genres.png)
 
-Shows the most frequently listed genres on Netflix.
-![Most Common Genres]("images/most_common_genres.png")
 
 Key Insights:
 
@@ -45,7 +45,7 @@ Helps identify popular categories and user interests.
 2️⃣ Movies vs TV Shows
 
 Compares the count of movies and TV shows.
-![Movies vs TV Shows]("images/movies_vs_tvshows.png")
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
 Key Insights:
 
@@ -56,7 +56,7 @@ Indicates platform focus and content distribution trends.
 3️⃣ Number of Titles Each Year
 
 Shows how many titles were released each year.
-![Number of Titles Each Year]("images/no_of_titles_each_year.png")
+![Number of Titles Each Year](images/no_of_titles_each_year.png)
 
 Key Insights:
 
