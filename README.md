@@ -34,7 +34,7 @@ Visualizations
 1️⃣ Most Common Genres
 
 Shows the most frequently listed genres on Netflix.
-![Most Common Genres](images/most common genres.png)
+![Most Common Genres]("images/most%20common%20genres.png")
 
 Key Insights:
 
@@ -45,7 +45,7 @@ Helps identify popular categories and user interests.
 2️⃣ Movies vs TV Shows
 
 Compares the count of movies and TV shows.
-![Movies vs TV Shows](images/movies vs tvshows.png)
+![Movies vs TV Shows]("images/movies%20vs%20tvshows.png")
 
 Key Insights:
 
@@ -56,7 +56,7 @@ Indicates platform focus and content distribution trends.
 3️⃣ Number of Titles Each Year
 
 Shows how many titles were released each year.
-![Number of Titles Each Year](images/no of titles each year.png)
+![Number of Titles Each Year]("images/no%20of%20titles%20each%20year.png")
 
 Key Insights:
 
